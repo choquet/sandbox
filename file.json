@@ -1,0 +1,29 @@
+[ {
+  "sectionId" : "TAG:of-89941",
+  "type" : "TAG",
+  "name" : "Coronavirus",
+  "image" : {
+    "url" : "https://media.ouest-france.fr/v1/pictures/dbc04b77f76dd00467aa0aecddea95ba-coronavirus.png",
+    "formats" : [ {
+      "name" : "suggestion",
+      "suffix" : "?width=468&height=648&focuspoint=75%2C50&client_id=apimobile&sign=f8b8e64100cd3c789a5fb799dd608d0b9a8c8fc1595ac89f7f5de604134acfe0"
+    }, {
+      "name" : "on-boarding",
+      "suffix" : "?width=312&height=402&focuspoint=75%2C50&client_id=apimobile&sign=604a1869ba8c706b09ff5bb5aec5116e1c3e12060902a93895cede1b210f78a9"
+    }, {
+      "name" : "add-screen",
+      "suffix" : "?width=1080&height=1440&focuspoint=75%2C50&client_id=apimobile&sign=857a20e4d289bdab04a423820c48416eaddab4c75d672b72ffc513b8de63a2d5"
+    } ]
+  },
+  "icon" : {
+    "url" : "https://media.ouest-france.fr/v1/pictures/1ca715b1835faa108c709da0413d7929-coronavirus-icon.png",
+    "formats" : [ {
+      "name" : "e-event-icon",
+      "suffix" : "?width=24&height=24&focuspoint=50%2C50&client_id=apimobile&sign=ac67efbaab81ffbbaa40d1a98b5fcdcae5964e04144917c35178b88d94b77715"
+    } ]
+  },
+  "data" : { },
+  "metadata" : {
+    "city" : false
+  }
+} ]
